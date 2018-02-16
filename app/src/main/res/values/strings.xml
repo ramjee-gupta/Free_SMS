@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FreeSMS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back_end_url"> https://freetosms.herokuapp.com/sms</string>
+</resources>
